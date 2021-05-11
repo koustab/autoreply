@@ -28,7 +28,7 @@ proc msgm:reply {nick host hand text} {
  global autorply rplytimer
  utimer $rplytimer  [list puthelp "PRIVMSG $nick :Hello $nick [lindex $autorply [rand [llength $autorply]]]"]
 }
-putlog "DMreply.tcl 0.1 by Banned loaded"
+putlog "autoreply.tcl 0.1 by Banned loaded"
 
 
 ### This content was generated under KISSmo Paste with love at this time:
