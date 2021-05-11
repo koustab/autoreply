@@ -15,11 +15,6 @@ set autorply {
 "Im a Functional Alcoholic but not Functioning atm @;"
 "Yes Im here"
 "What do you want?"
-
-#========================================================#
-#and many more can be added but bot will pick it         #
-#========================================================#
-
 }
 
 #========================================================#
