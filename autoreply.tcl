@@ -28,8 +28,6 @@ proc msgm:reply {nick host hand text} {
  global autorply rplytimer
  utimer $rplytimer  [list puthelp "PRIVMSG $nick :Hello $nick [lindex $autorply [rand [llength $autorply]]]"]
 }
-putlog "autoreply.tcl 0.1 by Banned loaded"
+putlog "autoreply.tcl 0.1 by Error loaded"
 
 
-### This content was generated under KISSmo Paste with love at this time:
-### 09.05.2021 23:18:10 PM
